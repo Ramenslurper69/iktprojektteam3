@@ -1,0 +1,65 @@
+.vertical-menu {
+    width: 450px;
+  }
+  
+  .vertical-menu a {
+    background-color: #424242; 
+    color: rgb(255, 255, 255); 
+    display: block;
+    padding: 12px; 
+    text-decoration: none; 
+    font-size: 30px;
+    font-family: Arial;
+  }
+  
+  .vertical-menu a:hover {
+    background-color: #ccc;
+  }
+  
+  .vertical-menu a.active {
+    background-color: #4CAF50; 
+    color: #7A747A;
+  }
+.leftsidemenu{
+    height: 1024px;
+    width: 450px;
+    float: left;
+}
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+}
+.sidemenu{
+    float: left;
+    
+}
+.title {
+    font-family: Arial;
+    position: relative;
+    top: 90px;
+    right: 140px;
+}
+.arial{
+    position: relative;
+    top: 150px;
+    right: 140px;
+    font-family: Arial;
+}
+
+div.thisweek{
+    position: relative;
+    top: 145px;
+    right: 145px;
+}
+
+div.lastweek{
+    position: relative;
+    top: 145px;
+    right:145px;
+}
+div.tartalom
+{
+    position:relative;
+    left:160px;
+}
