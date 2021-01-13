@@ -63,3 +63,11 @@ div.tartalom
   position:relative;
   top:90px;
 }
+
+.logo {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 80px;
+  left: 80px;
+}
